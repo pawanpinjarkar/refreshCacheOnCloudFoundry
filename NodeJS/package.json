@@ -1,0 +1,17 @@
+{
+  "name": "NodeJS-Refresh-Cache-Multiple-Instances",
+  "version": "1.0.0",
+  "description": "Synchronize in-memory objects over multiple instances in IBM CLOUD Cloud Foundary Apps",
+  "main": "test.js",
+  "engines": {
+    "node": "8.14.1",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.16.4"
+  }
+}

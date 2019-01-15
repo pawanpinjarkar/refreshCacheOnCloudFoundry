@@ -1,0 +1,7 @@
+---
+applications:
+ - name: NodeJS-Refresh-Cache-Multiple-Instances
+   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+   random-route: true
+   memory: 128M
+   instances: 3
