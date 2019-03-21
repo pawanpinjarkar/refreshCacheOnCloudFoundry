@@ -1,4 +1,4 @@
-# Synchronize in-memory objects over multiple instances in IBM CLOUD Cloud Foundary Apps using Bash script
+# Synchronize in-memory objects over multiple instances in IBM CLOUD Cloud Foundry Apps using Bash script
 
 ## Prerequisites
 * [Bluemix account](https://console.ng.bluemix.net/registration/)
