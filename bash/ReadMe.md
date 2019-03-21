@@ -12,13 +12,13 @@
 ## Usage
 ### With APIKEY:
 ```
-sh refreshCache.sh -o=MyOrg -s=dev -a=Python-Refresh-Cache-Multiple-Instances -p=YOUR_API_KEY -d=True
+sh refreshCache.sh -o=MyOrg -s=dev -a=Refresh-Cache-Multiple-Instances -p=YOUR_API_KEY -d=True
 ```
 
 ### With Bluemix ID: 
 Note: The user will be prompted interactively for the SSO token.
 ```
-sh refreshCache.sh -o=MyOrg -s=dev -a=Python-Refresh-Cache-Multiple-Instances -u=xyz@pqr.com -d=True
+sh refreshCache.sh -o=MyOrg -s=dev -a=Refresh-Cache-Multiple-Instances -u=xyz@pqr.com -d=True
 ```
 
 ## Script parameters description 
