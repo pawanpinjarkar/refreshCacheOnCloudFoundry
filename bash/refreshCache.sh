@@ -34,7 +34,7 @@ USAGE
 ibmcloud config --check-version=false
 
 echo "---------------------------------------------------------------------------------------------"
-echo "Synchronize in-memory objects over multiple instances of Cloud Foundary Apps in IBM Cloud."
+echo "Synchronize in-memory objects over multiple instances of Cloud Foundry Apps in IBM Cloud."
 echo "---------------------------------------------------------------------------------------------"
 
 # Initialize flags
